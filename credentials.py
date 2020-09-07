@@ -15,7 +15,7 @@ class Credentials:
         """Method which deletes a particular credential"""
         Credentials.credentials_list.remove(self)
 
-    @classmethod
+    
     def find_by_name(cls, account_name):
         """Method that takes in a name and returns a credential that matches that particular name
         Args:
