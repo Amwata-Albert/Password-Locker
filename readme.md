@@ -36,6 +36,7 @@ You can still use the default login but if you exit the app, you will still loos
 For additions, submit a pull request and once approved you can make contributions at will.
 Alternatively contact me at: ```alberotieno41@gmail.com```
 Developed by Amwata Albert
+find it at https://github.com/Amwata-Albert/Password-Locker
 
 # License
 
