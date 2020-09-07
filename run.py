@@ -232,7 +232,13 @@ def main():
                 print("Select an option below to continue: Enter 1, 2, 3, 4 or 5")
                 print('\n')
 
-           
+            while True:
+                print("1: View Your saved credentials")
+                print("2: Add new credentials")
+                print("3: Remove credentials")
+                print("4: Search credentials")
+                print("5: Log Out")
+                option = input()
 
                 if option == '2':
                     while True:
